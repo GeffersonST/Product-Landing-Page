@@ -47,4 +47,9 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
     </td>
   </tr>
 </table>
- 
+
+ <a href="https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q">
+  
+Contribution: Dev Ed
+  </a>
+  
