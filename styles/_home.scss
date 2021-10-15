@@ -1,3 +1,42 @@
-body {
-  color: red;
+.home {
+  background: radial-gradient(#525252, #131313);
+}
+.nav-container {
+  background: rgb(7, 7, 7);
+}
+nav {
+  width: 80%;
+  margin: auto;
+  min-height: 10vh;
+  padding: 3rem 0rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  ul {
+    display: flex;
+    justify-content: space-between;
+    flex: 1;
+  }
+  #logo {
+    flex: 3;
+    position: relative;
+    &::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 6rem;
+      height: 6rem;
+      background: #f54538;
+      border-radius: 50%;
+      transform: translate(-10%, -20%);
+      mix-blend-mode: screen;
+    }
+  }
+  .order {
+    background: #f54538;
+    padding: 1rem 2rem;
+    border-radius: 2rem;
+  }
 }
