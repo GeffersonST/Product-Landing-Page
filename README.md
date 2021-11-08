@@ -1,5 +1,5 @@
 <h1 align="center">
-  📰<br>Product Landing Page
+  📷<br>Product Landing Page
 </h1>
 
 <h4 align="center">
